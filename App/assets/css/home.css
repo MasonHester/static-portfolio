@@ -22,10 +22,6 @@ a.bordered {
     letter-spacing: 0px;
 }
 
-img.portfolioImage {
-}
-
-
 a.bordered:hover {
     background-color: #00ffff;
     color: #0c0c0c;
