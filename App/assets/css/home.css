@@ -1,0 +1,43 @@
+body {
+    /* background-color: #fafafa */
+    background-color: #0e0e0e
+}
+
+div.spacer200 {
+    height: 200px;
+}
+
+a.bordered {
+    background-color: transparent;
+    color: #00ffff;
+    border: 2px solid #00ffff;
+    border-radius: 15px;
+    width: 100%;
+    font-size: 15px;
+    font-weight: 600;
+    word-spacing: 2px;
+    padding: 0px;
+    height: auto;
+    text-transform: unset;
+    letter-spacing: 0px;
+}
+
+img.portfolioImage {
+}
+
+
+a.bordered:hover {
+    background-color: #00ffff;
+    color: #0c0c0c;
+}
+
+button.iconButton {
+    background-color: transparent;
+    width: 100%;
+}
+
+
+i {
+    /* color: #00007f; */
+    color: #00ffff;
+}

@@ -1,0 +1,29 @@
+body {
+    background-color: #111111;
+    color: #dddddd;
+}
+
+h1 {
+    color: #eeeeee;
+}
+
+table {
+    border: 2px solid #eeeeee;
+    text-align: center;
+    table-layout: fixed;
+}
+
+tr {
+    border: 1px solid #eeeeee;
+    background-color: #aaaaaa;
+    color: #111111;
+}
+
+tr:nth-child(odd) {
+    background-color: #bbbbbb
+}
+
+th {
+    background: #000000;
+    color: #eeeeee;
+}
